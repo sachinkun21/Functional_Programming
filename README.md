@@ -15,3 +15,4 @@ With that insight, these three methods are recognition and implementation:— th
 - **Map**: Apply the same set of steps to each item, storing the result.
 - **Filter:** Apply validation criteria, storing items that evaluate True.
 - **Reduce:** Return a value that is passed from element to element.
+NM
